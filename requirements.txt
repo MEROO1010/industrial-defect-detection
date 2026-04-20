@@ -1,0 +1,28 @@
+# Core Libraries
+torch==2.0.1
+torchvision==0.15.2
+ultralytics==8.0.124
+opencv-python==4.7.0.72
+numpy==1.24.3
+Pillow==9.5.0
+
+# FastAPI and WebSocket
+fastapi==0.95.2
+uvicorn==0.22.0
+websockets==11.0.3
+python-multipart==0.0.6
+
+# Database
+sqlalchemy==2.0.15
+pydantic==1.10.13
+
+# Data Analysis and Visualization
+pandas==2.0.3
+matplotlib==3.7.2
+scikit-learn==1.3.0
+
+# Data Augmentation
+albumentations==1.3.1
+
+# Jupyter Notebook (for evaluation)
+jupyter==1.0.0
